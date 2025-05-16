@@ -1,0 +1,17 @@
+{
+    "name": "pxt-hydroponics",
+    "version": "1.0.0",
+    "description": "Modules and lessons for the Hydroponics kit.",
+    "license": "MIT",
+    "dependencies": {
+        "fwd-float": "github:ssande-fwd/pxt-fwd-modules/fwd-float",
+        "fwd-ph": "github:ssande-fwd/pxt-fwd-modules/fwd-ph",
+        "fwd-lights": "github:ssande-fwd/pxt-fwd-modules/fwd-lights"
+    },
+    "files": [],
+    "testFiles": [],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ]
+}
