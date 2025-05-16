@@ -1,7 +1,7 @@
 {
     "name": "pxt-hydroponics",
     "version": "1.0.0",
-    "description": "Modules and lessons for the Hydroponics kit.",
+    "description": "Modules and lessons for the Hydroponics Kit.",
     "license": "MIT",
     "dependencies": {
         "fwd-float": "github:ssande-fwd/pxt-fwd-modules/fwd-float#v2.0.1",
